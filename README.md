@@ -24,14 +24,15 @@ The data has been taken from the inbuilt insurance dataset of pycaret.
 
    - Since it was a balanced dataset from pycaret, no preprocessing was required.
 
-   ![image](https://user-images.githubusercontent.com/43791878/135288857-1a3cb394-c720-4c1d-bbe0-9fbaacf28ef9.png)
-
 2. Pipeline
+   ![image](https://user-images.githubusercontent.com/43791878/144717023-c89339a8-de67-4da2-85ba-756d126ebc0d.png)
 
 3. Results
+   ![image](https://user-images.githubusercontent.com/43791878/144717036-aa714ab7-78ef-4139-9800-aeb137a1ed47.png)
 
 4. Plot
-
+   ![image](https://user-images.githubusercontent.com/43791878/144717104-e130bc1b-73be-4294-b7ea-5afaad890a68.png)
+   
 5. Unique Points
    - Blended Model using the Pycaret library
    - Hosting using Streamlit
