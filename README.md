@@ -1,6 +1,6 @@
 # Pycaret Based Insurance Prediction Application
 
-You can check out the application at : **https://pycaret-streamlit-kkaran.herokuapp.com/**
+You can check out the application at : **https://kaustuvkaran01-pycaret-deployment-app-5rqpkb.streamlit.app/**
 
 The application is built using Streamlit and Pycaret.
 
